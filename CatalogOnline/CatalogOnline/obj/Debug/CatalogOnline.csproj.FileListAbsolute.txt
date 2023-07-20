@@ -1,0 +1,12 @@
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\bin\Debug\Scoala.mdf
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\bin\Debug\Scoala_log.ldf
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\bin\Debug\CatalogOnline.exe.config
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\bin\Debug\CatalogOnline.exe
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\bin\Debug\CatalogOnline.pdb
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.csproj.AssemblyReference.cache
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.Form1.resources
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.Properties.Resources.resources
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.csproj.GenerateResource.cache
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.csproj.CoreCompileInputs.cache
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.exe
+C:\Users\Chisluca Ana\source\repos\CatalogOnline\CatalogOnline\obj\Debug\CatalogOnline.pdb
